@@ -1,0 +1,15 @@
+[2025-10-21 20:39:12] INFO: ✅ MongoDB conectado: mongodb://127.0.0.1:27017/ecommerce
+[2025-10-21 20:39:12] INFO: 🚀 Conexão com o banco estabelecida.
+[2025-10-21 20:39:58] ERROR: Preço inválido
+[2025-10-21 20:41:54] ERROR: Pedido validation failed: produtos.0.quantidade: Path `quantidade` (0) is less than minimum allowed value (1).
+[2025-10-21 20:42:45] INFO: Pedido criado: 68f81a7529d3c721e8686e96
+[2025-10-21 20:45:57] INFO: Usuário criado: 68f81b3529d3c721e8686e9c
+[2025-10-21 20:46:41] ERROR: Produto validation failed: preco: Cast to Number failed for value "NaN" (type number) at path "preco"
+[2025-10-21 20:47:00] ERROR: Preço inválido
+[2025-10-21 20:47:17] INFO: Produto criado: 68f81b8529d3c721e8686ea0
+[2025-10-21 20:47:56] INFO: Produto atualizado: 68f81b8529d3c721e8686ea0
+[2025-10-21 20:48:24] INFO: Produto atualizado: 68f81b8529d3c721e8686ea0
+[2025-10-21 20:48:41] INFO: Produto deletado: 68f81b8529d3c721e8686ea0
+[2025-10-21 20:54:00] INFO: Aplicação finalizada.
+[2025-10-21 20:54:53] INFO: ✅ MongoDB conectado: mongodb://127.0.0.1:27017/ecommerce
+[2025-10-21 20:54:53] INFO: 🚀 Conexão com o banco estabelecida.

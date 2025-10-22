@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-projeto1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.0",
+    "winston": "^3.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
